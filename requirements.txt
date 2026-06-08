@@ -1,0 +1,16 @@
+# Backend
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+python-dotenv==1.0.0
+slowapi==0.1.8
+
+# Vision AI
+google-genai==0.4.0
+
+# Frontend
+streamlit==1.28.0
+pillow==10.0.0
+requests==2.31.0
+
+# Optional production
+gunicorn==21.2.0
